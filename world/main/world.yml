@@ -1,1 +1,3 @@
-
+seed: 65536
+world: "world.dat"
+height: "height.dat"
